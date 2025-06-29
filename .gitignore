@@ -1,3 +1,11 @@
+*.DS_Store
+
+# Latex
+*.aux
+*.fdb_latexmk
+*.fls
+*.gz
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
