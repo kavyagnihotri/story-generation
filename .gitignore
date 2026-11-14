@@ -1,1 +1,18 @@
 *.DS_Store
+
+# LaTeX build artifacts
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.bbl
+*.blg
+
+# Python / notebooks / training outputs
+__pycache__/
+.ipynb_checkpoints/
+*-story-generation/
+checkpoints/
+*.zip
